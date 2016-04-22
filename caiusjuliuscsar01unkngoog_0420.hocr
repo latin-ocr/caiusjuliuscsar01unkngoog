@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./caiusjuliuscsar01unkngoog/caiusjuliuscsar01unkngoog_0420.png"; bbox 0 0 3017 5042; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 314 1309 2366 1898">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 314 1309 2366 1898">
+     <span class='ocr_line' id='line_1_1' title="bbox 314 1309 2366 1534; baseline -0.004 0"><span class='ocrx_word' id='word_1_1' title='bbox 314 1309 1405 1534; x_wconf 71' lang='lat' dir='ltr'><strong>GALLIARUM</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1460 1315 2366 1532; x_wconf 84' lang='lat' dir='ltr'>VETERUM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 916 1714 1766 1898; baseline -0.001 0"><span class='ocrx_word' id='word_1_3' title='bbox 916 1714 1766 1898; x_wconf 85' lang='lat' dir='ltr'>URBES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 566 2081 2098 2188">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 566 2081 2098 2188">
+     <span class='ocr_line' id='line_1_3' title="bbox 566 2081 2098 2188; baseline -0.003 -2"><span class='ocrx_word' id='word_1_4' title='bbox 566 2083 661 2186; x_wconf 87' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 732 2081 1120 2186; x_wconf 89' lang='lat' dir='ltr'><strong>CL.·J.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1202 2083 1333 2184; x_wconf 92' lang='lat' dir='ltr'><strong>A.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1416 2081 2098 2188; x_wconf 87' lang='lat' dir='ltr'><strong>DULAURE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 318 2347 2358 2437">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 318 2347 2358 2437">
+     <span class='ocr_line' id='line_1_4' title="bbox 318 2347 2358 2437; baseline 0.001 -21"><span class='ocrx_word' id='word_1_8' title='bbox 318 2349 870 2419; x_wconf 89' lang='lat' dir='ltr'>RECENTER</span> <span class='ocrx_word' id='word_1_9' title='bbox 902 2347 1357 2418; x_wconf 84' lang='lat' dir='ltr'>DIRUTAS</span> <span class='ocrx_word' id='word_1_10' title='bbox 1394 2347 1523 2416; x_wconf 90' lang='lat' dir='ltr'><strong>AC</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1559 2348 1826 2417; x_wconf 90' lang='lat' dir='ltr'>SOLO</span> <span class='ocrx_word' id='word_1_12' title='bbox 1867 2349 2358 2437; x_wconf 82' lang='lat' dir='ltr'><strong>AEQUATAS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 813 2539 1854 2599">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 813 2539 1854 2599">
+     <span class='ocr_line' id='line_1_5' title="bbox 813 2539 1854 2599; baseline -0.002 0"><span class='ocrx_word' id='word_1_13' title='bbox 813 2539 1854 2599; x_wconf 81' lang='lat' dir='ltr'><strong>RRRRRRRRRRRRRRRRR</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 542 2989 2132 3031">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 542 2989 2132 3031">
+     <span class='ocr_line' id='line_1_6' title="bbox 542 2989 2132 3031; baseline 0 -1"><span class='ocrx_word' id='word_1_14' title='bbox 542 2989 2132 3031; x_wconf 67' lang='lat' dir='ltr'>IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
